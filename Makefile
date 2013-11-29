@@ -5,6 +5,9 @@ build: components maple-grid.css
 components: component.json
 	@component install --dev
 
+styl:
+	styl -w < grid.styl > grid.css
+
 clean:
 	rm -fr build components template.js
 
