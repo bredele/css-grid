@@ -1,5 +1,4 @@
-
-# maple-grid
+# css-grid
 
   CSS grid
 
@@ -7,7 +6,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install leafs/maple-grid
+    $ component install bredele/css-grid
 
 ## API
 
